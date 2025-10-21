@@ -3,8 +3,6 @@
 This configuration file customizes the **Windows 11 Start Menu** using [Windhawk’s Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler).  
 It refines the layout, improves transparency effects, and simplifies the UI to create a **clean and translucent Start Menu** aesthetic.
 
----
-
 ## Features
 
 - **Translucent acrylic background** for the Start Menu  
@@ -15,7 +13,15 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
 - **Compact “Power” and “User” tiles** with subtle acrylic backgrounds  
 - **Modernized app list appearance** with rounded corners and soft shadows  
 
----
+## Preview
+Preview 1:
+/images/Preview_1.png
+
+Preview 2:
+/images/Preview_2.png
+
+Preview 3:
+/images/Preview_3.png
 
 ## Installation
 
@@ -104,9 +110,6 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
 5. Click **Save**
 
 6. Check if **Windows 11 Start Menu Styler** is **Enabled**
-
-## Preview
-ToDo
 
 ## Credits
 
