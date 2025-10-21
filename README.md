@@ -31,7 +31,7 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
 
 4. Replace **Mod Settings** with the following JSON:
 
-   <details>
+<details>
   <summary>Click here to reveal the JSON</summary>
   
   ```json
@@ -99,7 +99,7 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
    }
 ```
   
-   </details>
+</details>
 
 5. Click **Save**
 
