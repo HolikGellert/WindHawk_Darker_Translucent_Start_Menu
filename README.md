@@ -30,9 +30,11 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
 > [!TIP]
 > If you want to have translucent background: Open the **Settings** menu. Under the **Theme** settings, choose **"TranslucentStartMenu"**. Click **Save settings**
 
-3. Open the **Advanced** menu.
+3. Open **Windhawk**
 
-4. Replace **Mod Settings** with the following JSON:
+4. Open the **Advanced** menu.
+
+5. Replace **Mod Settings** with the following JSON:
 
 <details>
   <summary>Click here to reveal the JSON</summary>
@@ -104,9 +106,9 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
   
 </details>
 
-5. Click **Save**
+6. Click **Save**
 
-6. Check if **Windows 11 Start Menu Styler** is **Enabled**
+7. Check if **Windows 11 Start Menu Styler** is **Enabled**
 
 ## Credits
 
