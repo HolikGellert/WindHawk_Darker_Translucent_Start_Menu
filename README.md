@@ -1,7 +1,7 @@
 # Translucent Start Menu (Windows 11 Taskbar Styler)
 
-This configuration file customizes the **Windows 11 Start Menu** using [Windhawk’s Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler).  
-It refines the layout, improves transparency effects, and simplifies the UI to create a **cleaner, centered, and translucent Start Menu** aesthetic.
+This configuration file customizes the **Windows 11 Start Menu** using [Windhawk’s Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler).  
+It refines the layout, improves transparency effects, and simplifies the UI to create a **clean and translucent Start Menu** aesthetic.
 
 ---
 
@@ -22,12 +22,19 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
 1. **Install [Windhawk](https://windhawk.net/)**  
    Windhawk allows you to apply community mods safely to Windows 10/11.
 
-2. **Install the [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)** mod inside Windhawk.
+2. **Install the [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)** mod inside Windhawk.
 
-3. Open the **Taskbar Styler configuration** editor.
+> [!TIP]
+> If you want to have translucent background: Open the **Settings** menu. Under the **Theme** settings, choose **"TranslucentStartMenu"**. Click **Save settings**
 
-4. Replace the contents with the following JSON:
-   ```json
+3. Open the **Advanced** menu.
+
+4. Replace **Mod Settings** with the following JSON:
+
+<details>
+  <summary>Click here to reveal the JSON</summary>
+  
+  ```json
    {
      "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
      "controlStyles[0].styles[0]": "Visibility=Visible",
@@ -90,3 +97,19 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
      "controlStyles[11].styles[2]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"0.5\" Opacity=\"1\"/>",
      "controlStyles[16].styles[2]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"0.05\" Opacity=\"1\"/>"
    }
+```
+  
+</details>
+
+5. Click **Save**
+
+6. Check if **Windows 11 Start Menu Styler** is **Enabled**
+
+## Preview
+ToDo
+
+## Credits
+
+- **[Windhawk](https://windhawk.net/)** by Ramen Software  
+- **[Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)** by Ramen Software / community contributors  
+- **Config adjustments and layout design** by [Me]
