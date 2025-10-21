@@ -14,11 +14,11 @@ It refines the layout, improves transparency effects, and simplifies the UI to c
 - **Modernized app list appearance** with rounded corners and soft shadows  
 
 ## Preview
-![Preview 1](images/Preview_1.png)
+![Preview 1](Images/Preview_1.png)
 
-![Preview 2](images/Preview_2.png)
+![Preview 2](Images/Preview_2.png)
 
-![Preview 3](images/Preview_3.png)
+![Preview 3](Images/Preview_3.png)
 
 ## Installation
 
